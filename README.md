@@ -145,15 +145,26 @@ I'm always open to connecting with fellow developers, collaborating on interesti
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hikamsrl/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="35" height="35" alt="LinkedIn" />
   </a>
+  <a href="https://www.linkedin.com/in/hikamsrl/">hikamsrl</a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/hikamsrl/">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="35" height="35" alt="Instagram" />
   </a>
+  <a href="https://www.instagram.com/hikamsrl/">@hikamsrl</a>
+  &nbsp;&nbsp;
   <a href="https://www.youtube.com/@hikamsirrul8948">
-    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" width="40" height="40" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" height="25" alt="YouTube" />
   </a>
-
+  <a href="https://www.youtube.com/@hikamsirrul8948">@hikamsirrul8948</a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/HikamSirrul">
+    <img src="https://skillicons.dev/icons?i=github" width="35" height="35" alt="GitHub" />
+  </a>
+  <a href="https://github.com/HikamSirrul">HikamSirrul</a>
+</p>
+  
 <div align="center">
 
 ### 💡 Learn. Build. Improve. Repeat.
