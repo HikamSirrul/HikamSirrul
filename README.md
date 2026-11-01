@@ -155,7 +155,7 @@ I'm always open to connecting with fellow developers, collaborating on interesti
   <a href="https://www.instagram.com/hikamsrl/"></a>
   &nbsp;&nbsp;
   <a href="https://www.youtube.com/@hikamsirrul8948">
-    <img src="https://www.flaticon.com/free-icon/youtube_174883?term=youtube&page=1&position=6&origin=tag&related_id=174883" height="25" alt="YouTube" />
+    <img src="https://icon-icons.com/icon/youtube-logo/66802" height="25" alt="YouTube" />
   </a>
   <a href="https://www.youtube.com/@hikamsirrul8948"></a>
   &nbsp;&nbsp;
