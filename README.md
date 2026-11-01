@@ -145,15 +145,14 @@ I'm always open to connecting with fellow developers, collaborating on interesti
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hikamsrl/">
-    <img src="https://img.shields.io/badge/LinkedIn-Hikam_Sirrul_Arifin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/hikamsrl/">
     <img src="https://img.shields.io/badge/Instagram-@hikamsrl-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-    <a href="https://www.linkedin.com/in/hikamsrl/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.youtube.com/@hikamsirrul8948">
+    <img src="https://img.shields.io/badge/YouTube-Hikam_Sirrul-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-</p>
 
 <div align="center">
 
