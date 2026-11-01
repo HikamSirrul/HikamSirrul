@@ -161,9 +161,6 @@ I'm always open to connecting with fellow developers, collaborating on interesti
   <a href="https://www.youtube.com/@hikamsirrul8948">
     <img src="https://img.shields.io/badge/YouTube-Hikam_Sirrul-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://www.tiktok.com/@hikamsrl">
-    <img src="https://img.shields.io/badge/TikTok-@hikamsrl-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
 </p>
 
 <div align="center">
