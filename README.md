@@ -125,14 +125,6 @@ A personal portfolio website showcasing my background, technical skills, project
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HikamSirrul&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Hikam's GitHub Statistics" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HikamSirrul&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=HikamSirrul&theme=tokyonight&hide_border=true" alt="GitHub Streak Statistics" />
 
 </div>
