@@ -86,6 +86,8 @@ A web-based application that classifies prospective blood donors as eligible or 
 
 **Tech Stack:** Python, Flask, Scikit-learn, Pandas, MySQL
 
+🔗 **Live Demo:** [hikamsrl.pythonanywhere.com](https://hikamsrl.pythonanywhere.com/)
+
 ### 🤰 BumpCare
 
 A web application designed to support pregnancy health monitoring through pregnancy risk classification and nutritional status assessment.
@@ -98,18 +100,7 @@ A web application designed to support pregnancy health monitoring through pregna
 
 **Tech Stack:** React, Hapi.js, PostgreSQL, JWT, TensorFlow
 
-### 💰 FinTrack
-
-A personal finance management application designed to help users organize financial transactions and monitor their accounts.
-
-**Key Features**
-- Financial dashboard
-- Account and transaction management
-- Income and expense categorization
-- Money transfers between accounts
-- Authentication and backend API integration
-
-**Tech Stack:** React, TypeScript, Tailwind CSS, Express.js, Prisma, PostgreSQL
+🔗 **Live Demo:** [bumpcare.vercel.app](https://bumpcare.vercel.app)
 
 ### 🌐 Personal Portfolio
 
