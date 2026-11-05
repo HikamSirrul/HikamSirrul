@@ -88,6 +88,8 @@ A web-based application that classifies prospective blood donors as eligible or 
 
 🔗 **Live Demo:** [hikamsrl.pythonanywhere.com](https://hikamsrl.pythonanywhere.com/)
 
+🔗 **Repository:** [HikamSirrul/Klasifikasi-Donor-Naive-Bayes](https://github.com/HikamSirrul/Klasifikasi-Donor-Naive-Bayes)
+
 ### 🤰 BumpCare
 
 A web application designed to support pregnancy health monitoring through pregnancy risk classification and nutritional status assessment.
@@ -101,6 +103,24 @@ A web application designed to support pregnancy health monitoring through pregna
 **Tech Stack:** React, Hapi.js, PostgreSQL, JWT, TensorFlow
 
 🔗 **Live Demo:** [bumpcare.vercel.app](https://bumpcare.vercel.app)
+
+🔗 **Repository:** [XalLtzy/BumpCare-Capstone-Project](https://github.com/XalLtzy/BumpCare-Capstone-Project)
+
+### 💰 FinTrack
+
+A web-based personal finance management application designed to help users organize and monitor their financial activities, including income, expenses, account balances, budgets, and savings goals.
+
+**Key Features**
+- Financial dashboard for monitoring income, expenses, and account balances.
+- Multiple account management, including cash, bank accounts, and e-wallets.
+- Income and expense tracking with transaction categories.
+- Budget management and savings goal tracking.
+
+**Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Node.js, Express.js, Prisma ORM, PostgreSQL, Supabase.
+
+🔗 **Live Demo:** [fintrack-hikamsrl.netlify.app](https://fintrack-hikamsrl.netlify.app/)
+
+🔗 **Repository:** [HikamSirrul/FinTrack](https://github.com/HikamSirrul/FinTrack)
 
 ### 🌐 Personal Portfolio
 
